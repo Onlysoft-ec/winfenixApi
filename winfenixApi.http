@@ -1,0 +1,6 @@
+@winfenixApi_HostAddress = http://localhost:5204
+
+GET {{winfenixApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
