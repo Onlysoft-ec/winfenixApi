@@ -3,6 +3,8 @@ using System.Data;
 using System.IdentityModel.Tokens.Jwt;
 using winfenixApi.Core.Interfaces;
 using winfenixApi.Infrastructure.Data;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Logging;
 
 namespace winfenixApi.Repositories
 {

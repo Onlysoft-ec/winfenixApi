@@ -18,5 +18,11 @@ namespace winfenixApi.Infrastructure.Data
         {
             return new SqlConnection(_databaseSettings.ConnectionString);
         }
+
+        // Agregar método para crear conexión con un string de conexión personalizado
+        public IDbConnection CreateConnection(string connectionString)
+        {
+            return new SqlConnection(connectionString);
+        }
     }
 }
