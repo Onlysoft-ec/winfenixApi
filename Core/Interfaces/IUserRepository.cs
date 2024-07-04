@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using winfenixApi.Core.Entities;
+﻿using winfenixApi.Core.Entities;
 
 namespace winfenixApi.Core.Interfaces
 {

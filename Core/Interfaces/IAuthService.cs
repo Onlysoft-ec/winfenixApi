@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-namespace winfenixApi.Core.Interfaces
+﻿namespace winfenixApi.Core.Interfaces
 {
     public interface IAuthService
     {

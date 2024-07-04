@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Threading.Tasks;
-using winfenixApi.Repositories;
-using winfenixApi.Application.Interfaces;
+﻿using winfenixApi.Application.Interfaces;
 using winfenixApi.Core.Interfaces;
 using winfenixApi.Core.Validators;
-using Microsoft.Extensions.Logging;
 
 namespace winfenixApi.Application.Services
 {

@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Dapper;
 using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
-using Dapper;
+using System.IdentityModel.Tokens.Jwt;
 using winfenixApi.Core.Interfaces;
 using winfenixApi.Infrastructure.Data;
-using System.IdentityModel.Tokens.Jwt;
-using Microsoft.AspNetCore.Http;
-using Microsoft.Extensions.Logging;
 
 namespace winfenixApi.Repositories
 {
@@ -144,7 +138,7 @@ namespace winfenixApi.Repositories
         {
             var identityColumns = await GetIdentityColumnsAsync(tableName);
             var filteredData = data.Where(d => !identityColumns.Contains(d.Key)).ToDictionary(d => d.Key, d => d.Value);
-                        
+
             {
                 using var connection = CreateConnection();
                 var setClause = string.Join(", ", filteredData.Keys.Select(k => $"{k} = {FormatValue(filteredData[k])}"));

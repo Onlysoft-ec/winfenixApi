@@ -1,14 +1,11 @@
-﻿using System;
+﻿using Dapper;
+using Microsoft.IdentityModel.Tokens;
+using System.Data.SqlClient;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-using Microsoft.IdentityModel.Tokens;
-using winfenixApi.Core.Interfaces;
 using winfenixApi.Core.Entities;
-using Dapper;
-using System.Data.SqlClient;
+using winfenixApi.Core.Interfaces;
 
 namespace winfenixApi.Application.Services
 {

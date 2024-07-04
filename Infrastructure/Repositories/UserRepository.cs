@@ -1,9 +1,7 @@
-﻿using System.Threading.Tasks;
-using Dapper;
+﻿using Dapper;
+using System.Data.SqlClient;
 using winfenixApi.Core.Entities;
 using winfenixApi.Core.Interfaces;
-using Microsoft.Extensions.Configuration;
-using System.Data.SqlClient;
 
 namespace winfenixApi.Infrastructure.Repositories
 {

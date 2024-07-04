@@ -1,11 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using System.Collections.Generic;
 using winfenixApi.Application.Interfaces;
 using winfenixApi.Application.Services;
 using winfenixApi.Core.Interfaces;
@@ -16,8 +10,6 @@ using winfenixApi.Infrastructure.Repositories;
 using winfenixApi.Repositories;
 
 
-//hola
-// prueba 2
 public class Startup
 {
     public Startup(IConfiguration configuration)
@@ -69,19 +61,19 @@ public class Startup
     {
         services.AddSwaggerGen(c =>
         {
-            c.SwaggerDoc("v1", new OpenApiInfo { Title = "ApiCursoNetCore", Version = "v1" });
+            c.SwaggerDoc("v1", new OpenApiInfo { Title = "winfenixApi", Version = "v1" });
         });
     }
 
     private void ConfigureAuthentication(IServiceCollection services)
     {
-        var key = Configuration["Jwt:Key"];
+        var key = Configuration["Jwt:KeySecret"];
         services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(options =>
             {
                 options.Authority = Configuration["Jwt:Authority"];
                 options.RequireHttpsMetadata = false;
-                options.Audience = "ApiCursoNetCore";
+                options.Audience = "winfenixApi";
             });
     }
 
@@ -109,6 +101,6 @@ public class Startup
     {
         app.UseDeveloperExceptionPage();
         app.UseSwagger();
-        app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ApiCursoNetCore v1"));
+        app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "winfenixApi v1"));
     }
 }

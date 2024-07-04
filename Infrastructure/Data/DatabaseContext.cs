@@ -1,6 +1,6 @@
-﻿using System.Data;
+﻿using Microsoft.Extensions.Options;
+using System.Data;
 using System.Data.SqlClient;
-using Microsoft.Extensions.Options;
 using winfenixApi.Infrastructure.Configurations;
 
 namespace winfenixApi.Infrastructure.Data
@@ -14,9 +14,9 @@ namespace winfenixApi.Infrastructure.Data
             _databaseSettings = databaseSettings.Value;
         }
 
-        public IDbConnection CreateConnection(string connectionString)
+        public IDbConnection CreateConnection()
         {
-            return new SqlConnection(connectionString);
+            return new SqlConnection(_databaseSettings.ConnectionString);
         }
     }
 }
