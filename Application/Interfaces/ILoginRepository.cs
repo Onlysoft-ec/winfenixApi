@@ -6,6 +6,6 @@ namespace winfenixApi.Core.Interfaces
     public interface ILoginRepository
     {
         GenericResponse<bool> Autenticador(InputLoginDTO login);
-        GenericResponse<string> GeneraToken(InputLoginDTO login);
+        GenericResponse<string> GeneraToken(InputLoginDTO login, string database);
     }
 }

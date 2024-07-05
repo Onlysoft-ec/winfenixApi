@@ -1,0 +1,1475 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: 2E51-171A
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi
+
+2024-07-05  10:08    <DIR>          .
+2024-07-05  08:09    <DIR>          ..
+2024-07-04  08:55             2.581 .gitattributes
+2024-07-04  14:00    <DIR>          .github
+2024-07-04  08:55             6.585 .gitignore
+2024-07-04  15:39    <DIR>          Adapters
+2024-07-03  13:15    <DIR>          Application
+2024-07-03  12:58               127 appsettings.Development.json
+2024-07-04  13:24               226 appsettings.json
+2024-07-03  12:58    <DIR>          bin
+2024-07-04  20:28    <DIR>          Core
+2024-07-04  15:53    <DIR>          Infrastructure
+2024-07-04  13:42    <DIR>          obj
+2024-07-04  17:55    <DIR>          Properties
+2024-07-04  18:39                80 SqlConnect.json
+2024-07-05  10:08                 0 tree_files.txt
+2024-07-04  19:40    <DIR>          WebApi
+2024-07-04  20:40             1.062 winfenixApi.csproj
+2024-07-03  12:58               238 winfenixApi.csproj.user
+2024-07-03  12:58               135 winfenixApi.http
+2024-07-03  12:58             1.128 winfenixApi.sln
+              10 archivos         12.162 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git
+
+2024-07-05  10:08    <DIR>          ..
+2024-07-05  07:59                10 COMMIT_EDITMSG
+2024-07-04  11:56               930 config
+2024-07-04  11:56                73 description
+2024-07-04  12:05               104 FETCH_HEAD
+2024-07-04  11:56                23 HEAD
+2024-07-04  11:56    <DIR>          hooks
+2024-07-05  07:59             4.579 index
+2024-07-04  11:56    <DIR>          info
+2024-07-04  11:56    <DIR>          logs
+2024-07-05  07:59               175 ms-persist.xml
+2024-07-05  07:59    <DIR>          objects
+2024-07-04  12:05                41 ORIG_HEAD
+2024-07-04  11:56    <DIR>          refs
+               8 archivos          5.935 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\hooks
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56               478 applypatch-msg.sample
+2024-07-04  11:56               896 commit-msg.sample
+2024-07-04  11:56             4.726 fsmonitor-watchman.sample
+2024-07-04  11:56               189 post-update.sample
+2024-07-04  11:56               424 pre-applypatch.sample
+2024-07-04  11:56             1.649 pre-commit.sample
+2024-07-04  11:56               416 pre-merge-commit.sample
+2024-07-04  11:56             1.374 pre-push.sample
+2024-07-04  11:56             4.898 pre-rebase.sample
+2024-07-04  11:56               544 pre-receive.sample
+2024-07-04  11:56             1.492 prepare-commit-msg.sample
+2024-07-04  11:56             2.783 push-to-checkout.sample
+2024-07-04  11:56             2.308 sendemail-validate.sample
+2024-07-04  11:56             3.650 update.sample
+              14 archivos         25.827 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\info
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56               240 exclude
+               1 archivos            240 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\logs
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59               963 HEAD
+2024-07-04  11:56    <DIR>          refs
+               1 archivos            963 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\logs\refs
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-04  11:56    <DIR>          heads
+2024-07-04  11:56    <DIR>          remotes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\logs\refs\heads
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-05  07:59               963 master
+               1 archivos            963 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\logs\refs\remotes
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-04  11:56    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\logs\refs\remotes\origin
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-05  07:59               765 master
+               1 archivos            765 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects
+
+2024-07-05  07:59    <DIR>          .
+2024-07-04  14:12    <DIR>          01
+2024-07-05  07:59    <DIR>          03
+2024-07-04  11:56    <DIR>          08
+2024-07-05  07:59    <DIR>          0a
+2024-07-04  14:12    <DIR>          0b
+2024-07-04  11:56    <DIR>          0c
+2024-07-05  07:59    <DIR>          10
+2024-07-05  07:59    <DIR>          12
+2024-07-05  07:59    <DIR>          13
+2024-07-04  11:56    <DIR>          14
+2024-07-05  07:59    <DIR>          15
+2024-07-05  07:59    <DIR>          16
+2024-07-04  12:00    <DIR>          18
+2024-07-04  14:12    <DIR>          1d
+2024-07-04  11:56    <DIR>          1f
+2024-07-04  11:56    <DIR>          20
+2024-07-05  07:59    <DIR>          22
+2024-07-05  07:59    <DIR>          23
+2024-07-04  12:00    <DIR>          24
+2024-07-04  11:56    <DIR>          2c
+2024-07-04  11:56    <DIR>          30
+2024-07-05  07:59    <DIR>          33
+2024-07-05  07:59    <DIR>          35
+2024-07-04  11:56    <DIR>          36
+2024-07-04  14:12    <DIR>          37
+2024-07-04  14:50    <DIR>          38
+2024-07-04  14:12    <DIR>          39
+2024-07-04  11:56    <DIR>          3a
+2024-07-04  11:57    <DIR>          3b
+2024-07-04  14:12    <DIR>          3c
+2024-07-05  07:59    <DIR>          3e
+2024-07-05  07:59    <DIR>          3f
+2024-07-04  11:56    <DIR>          41
+2024-07-04  11:56    <DIR>          42
+2024-07-04  11:56    <DIR>          43
+2024-07-04  14:50    <DIR>          47
+2024-07-04  14:12    <DIR>          4b
+2024-07-04  14:50    <DIR>          4c
+2024-07-04  14:50    <DIR>          4f
+2024-07-04  14:12    <DIR>          50
+2024-07-04  11:56    <DIR>          52
+2024-07-04  11:56    <DIR>          57
+2024-07-05  07:59    <DIR>          58
+2024-07-05  07:59    <DIR>          5d
+2024-07-04  14:12    <DIR>          66
+2024-07-04  14:12    <DIR>          67
+2024-07-05  07:59    <DIR>          68
+2024-07-04  14:12    <DIR>          6b
+2024-07-04  11:56    <DIR>          71
+2024-07-05  07:59    <DIR>          72
+2024-07-05  07:59    <DIR>          78
+2024-07-04  11:56    <DIR>          83
+2024-07-05  07:59    <DIR>          84
+2024-07-05  07:59    <DIR>          8a
+2024-07-04  14:12    <DIR>          8c
+2024-07-04  14:12    <DIR>          91
+2024-07-04  14:50    <DIR>          93
+2024-07-05  07:59    <DIR>          94
+2024-07-04  14:12    <DIR>          9b
+2024-07-05  07:59    <DIR>          9e
+2024-07-04  11:56    <DIR>          a1
+2024-07-04  14:50    <DIR>          a3
+2024-07-05  07:59    <DIR>          a5
+2024-07-04  14:12    <DIR>          a8
+2024-07-05  07:59    <DIR>          ab
+2024-07-04  11:57    <DIR>          ac
+2024-07-04  11:56    <DIR>          af
+2024-07-04  11:56    <DIR>          b0
+2024-07-05  07:59    <DIR>          b2
+2024-07-04  14:12    <DIR>          b5
+2024-07-05  07:59    <DIR>          b6
+2024-07-04  11:56    <DIR>          b7
+2024-07-04  11:56    <DIR>          b8
+2024-07-04  14:12    <DIR>          be
+2024-07-04  11:56    <DIR>          c1
+2024-07-04  11:56    <DIR>          c2
+2024-07-05  07:59    <DIR>          c3
+2024-07-05  07:59    <DIR>          c6
+2024-07-04  14:12    <DIR>          c7
+2024-07-04  11:56    <DIR>          cd
+2024-07-04  14:12    <DIR>          ce
+2024-07-05  07:59    <DIR>          d2
+2024-07-04  11:56    <DIR>          d5
+2024-07-04  14:12    <DIR>          d7
+2024-07-04  11:56    <DIR>          d9
+2024-07-04  11:56    <DIR>          da
+2024-07-04  14:12    <DIR>          dd
+2024-07-04  11:56    <DIR>          e0
+2024-07-04  14:50    <DIR>          e1
+2024-07-05  07:59    <DIR>          e2
+2024-07-05  07:59    <DIR>          e5
+2024-07-05  07:59    <DIR>          e8
+2024-07-04  12:00    <DIR>          ea
+2024-07-04  14:12    <DIR>          eb
+2024-07-04  14:12    <DIR>          ed
+2024-07-05  07:59    <DIR>          ef
+2024-07-04  14:12    <DIR>          f1
+2024-07-04  11:56    <DIR>          f2
+2024-07-05  07:59    <DIR>          f9
+2024-07-05  07:59    <DIR>          fd
+2024-07-04  11:56    <DIR>          info
+2024-07-04  11:56    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\01
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               117 a3582d0ddadf1822a3c802866fbe603ce76146
+               1 archivos            117 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\03
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               240 4353c91147fb9510cf7c86bfb506676b80792f
+2024-07-05  07:59             1.486 921ebaba7a1a8e64992e2fdc4eb2ced408955f
+               2 archivos          1.726 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\08
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                91 da6d94389e58a173c9813f5790d038a049cd5d
+               1 archivos             91 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\0a
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               122 b9340581fbe68475d0d514ed014266d79cbaf9
+               1 archivos            122 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\0b
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               118 360293b0479519d771c1e339fe39e58466db74
+               1 archivos            118 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\0c
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               108 208ae9181e5e5717e47ec1bd59368aebc6066e
+               1 archivos            108 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\10
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               203 78eefa912053e96de1465ddf23d17094a80c9b
+2024-07-05  07:59               302 c915b88bd07503010cc0b0cdffbdd639b18e82
+               2 archivos            505 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\12
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               130 0ffd4800a167b7741dd6942fc80aaaa557851f
+2024-07-04  11:56                91 6627c0f1b04a456fbd31624dc2cbdd7d5c2ad7
+               2 archivos            221 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\13
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               862 668088dd177aab54ecc69ff982908e2079c698
+               1 archivos            862 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\14
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               453 5ea027fd4a9a5bc03e6acadaed1936db5a0555
+               1 archivos            453 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\15
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               142 62f723516c4626a138c0c73e203dd9b02f0805
+               1 archivos            142 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\16
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               148 8bacfc1b3bd98ca8248c8de21d583c8eeb9860
+2024-07-05  07:59               121 fd5e68817b3b81eda8f95cf5928cf82581373a
+               2 archivos            269 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\18
+
+2024-07-04  12:00    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                63 812fe0a0a34403062ad560b3b0b3c88cba188f
+2024-07-04  12:00             1.019 edbea03d29e80e07572ae0a04a1b410dd21fee
+               2 archivos          1.082 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\1d
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                91 0f6a633e5fc3cdbfe5746c18cf60c03277eee7
+               1 archivos             91 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\1f
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                90 4a85fcaaf8c8e633a1827c8a4d18bd47757594
+2024-07-04  11:56               751 f0c423042b46cb1d617b81efb715defbe8054d
+               2 archivos            841 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\20
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                65 29c2b15b17192d59d1cc4ed9cc5725db396823
+               1 archivos             65 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\22
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                89 404ad78ad235675af4e20dd065b9cdab9e1d60
+2024-07-05  07:59               134 700a089d3143b79a9264ab8b37c2975397d1b0
+               2 archivos            223 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\23
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               188 4ed6ce91840db585d37774bfb93f61c4790af7
+               1 archivos            188 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\24
+
+2024-07-04  12:00    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  12:00               158 daccdb7e27469f0370392f6a96874bce730a24
+               1 archivos            158 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\2c
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               370 114e27841eadb64fbec8d03c25fbcaab73a675
+               1 archivos            370 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\30
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               145 b28f0b1e83ac8dbe6470e8f230dda61d6d7a1a
+               1 archivos            145 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\33
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               495 13c3f73ce3b7050b6e0108017bb261c8becd88
+               1 archivos            495 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\35
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                72 516ddd282164be0f796b69d17789901a56cd8d
+2024-07-05  07:59               945 c9c0a6fa6916ade615a0ff72757c136fedf920
+               2 archivos          1.017 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\36
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                65 03a3b06d1d93787a434c3549f6069ca619635b
+               1 archivos             65 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\37
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               147 6b6a14c3fde31f2d580890f279448de6e1bb4d
+2024-07-04  14:12               882 9153223968e1d2156eabad0afd5cac514019b5
+               2 archivos          1.029 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\38
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50               160 d75a237b797a03c7293f5fcedb5b752c3b8b7d
+2024-07-04  11:56               132 d8275ead4c4d0c3871a42497e165d2fe057582
+               2 archivos            292 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\39
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               162 a0dc068eb7bcb20534206782cfb7451d30ccb8
+               1 archivos            162 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\3a
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               152 33aa3e244cfd34308a6bae7391c048f2279b6c
+               1 archivos            152 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\3b
+
+2024-07-04  11:57    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:57               564 0ae30328650460b4c2ea88aec4155eb3693c94
+               1 archivos            564 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\3c
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                62 dbad1e98db753bf6f9798bc7e46898bdabf640
+               1 archivos             62 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\3e
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               655 227c6eebbb08e2c1d80bbbff3283630d1ccb20
+2024-07-05  07:59               117 6bd729abbb66e0f4f0edee027f329b1cd05ead
+               2 archivos            772 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\3f
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                64 3abf7f4fda3313e266a94f95ad3a1b98c67149
+2024-07-05  07:59               130 9689cea2492184fcae5a391e76d49a6bd924ee
+               2 archivos            194 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\41
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               118 f89144040cd671aa1afe8f7e4dfa0c42bd8a8d
+               1 archivos            118 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\42
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                64 5bf55a75492e8a4b33ea8d438537930d216683
+               1 archivos             64 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\43
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               226 c20ef7b48894eefd1d4cce188b0631a2af89e4
+               1 archivos            226 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\47
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50                65 9d16f50c8f6903f3ac24498b9561d533b47635
+               1 archivos             65 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\4b
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               171 8e13663bc7a53a8fde69e0d22958d3ceba2e05
+               1 archivos            171 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\4c
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50               567 1d1542a7bdd71accb0816f3c44f7c9803b2f44
+2024-07-04  11:57               156 687ec6aabf26e1878c7eb9ed4c0155c67fa781
+               2 archivos            723 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\4f
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50             1.759 715db536ca07fe89fcb29b67feb2031e76100c
+               1 archivos          1.759 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\50
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                63 021b78a86dae379e00438fbc52c69827693975
+               1 archivos             63 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\52
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               117 3d2bfd66e508f44b435016051980064f4a7db6
+2024-07-04  11:56               564 721b21eb059de63b5de47278e9a178834223f5
+               2 archivos            681 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\57
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               929 7f9e7afa774952519e620b8eb613db9d96ca55
+               1 archivos            929 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\58
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               129 b4ab6c8770435dca4c918c2222986dc5c0b2a6
+               1 archivos            129 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\5d
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               234 0234f430cccf31347226a994c3ca785bf563d4
+2024-07-04  11:56               284 4c12ba81aa31dc89414483dbedbab5e235bbd5
+               2 archivos            518 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\66
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               535 c803307efe819971c6f1c670d4422c9c50b66d
+               1 archivos            535 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\67
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12             1.726 3c2f41097616f46baa03a81277ac3c0fb7cc44
+2024-07-04  11:56               381 7ac2810b1fb9932b989d350a9317078bdd4183
+               2 archivos          2.107 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\68
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59             1.761 73b0153b6aceb8fdbcb2a39283813de41893b1
+               1 archivos          1.761 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\6b
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12             1.409 c9057d205c9d35e1e37afcc17de5ee7d0109c6
+               1 archivos          1.409 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\71
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               225 a34f21c0b4cebf8e097729e12de19fb80725f5
+               1 archivos            225 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\72
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59                69 c594b4c0d0a2d6ca56be6b9845adbb4dd4f056
+               1 archivos             69 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\78
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50                63 34bd658f66e4408c2fc69874ea625ed4469f24
+2024-07-05  07:59                63 35bf4a36f4c2f12b2a57c8054503ed12562fda
+               2 archivos            126 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\83
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               120 04827373157f0195b667defd733bb118d976d4
+               1 archivos            120 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\84
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59                96 f1397b370c76dc48b50aec8eeb736bda5d6814
+               1 archivos             96 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\8a
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               734 3c7ce8695f822ef2ffc951d8845ace9e1ffa59
+2024-07-05  07:59             1.106 ba0cf2ef3011c4b288fbfa0a5373b849adcf72
+               2 archivos          1.840 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\8c
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               173 49f9829a200287fdce769e70976da44d2be238
+               1 archivos            173 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\91
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56             1.003 28ace9c82a8e865ec152bf186e4224b75712ce
+2024-07-04  14:12                89 399b05ba7de921222c954f4d89f6a028d17e5c
+               2 archivos          1.092 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\93
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50                89 2b3525902267a3edd1525fc53699e7f2b1586c
+2024-07-04  11:56               189 e76c78af1186e33d7138496dbbe27f270d74f1
+               2 archivos            278 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\94
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56             2.935 91a2fda28342ab358eaf234e1afe0c07a53d62
+2024-07-05  07:59               167 eef2b26c4e342252639bc39402feec15159d3c
+               2 archivos          3.102 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\9b
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               391 7a90d85ce251e8bb49054e36da1fa800e7b170
+               1 archivos            391 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\9e
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               121 dd469a525109bfe2b2766d9a5cfa84de5fcb0a
+               1 archivos            121 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\a1
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                63 0a787f089543ca74a1ae1c7a67b903a5021502
+               1 archivos             63 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\a3
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50               153 cba38d68c4ad14567382f1f015231de4cd473b
+               1 archivos            153 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\a5
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               304 7b8a5ae3539f6b068177e4d81ffcd50ae2648f
+2024-07-05  07:59               139 c7e3fe878ecfa1d04d18f4575d31aa5d15836e
+               2 archivos            443 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\a8
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                64 d63c021d1ce28398121f243b14d056435faa81
+               1 archivos             64 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\ab
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59                82 6cb54a3a8d691538238336e44856e7ef9fd3ff
+               1 archivos             82 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\ac
+
+2024-07-04  11:57    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:57             1.010 dda538fc40dc24865b0189498730a8d8f173e1
+               1 archivos          1.010 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\af
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               175 b0a95aa07189f919f8476874159e5bed8431f6
+               1 archivos            175 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\b0
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               170 257a50ec0b90720b0fe765f8edbff014e67479
+               1 archivos            170 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\b2
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               122 76884f1864ab7cb69161259c5ea52695386343
+2024-07-05  07:59               125 f1fc9663366b10754392a18d9852bef3ca7305
+               2 archivos            247 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\b5
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               152 e46148ea940e5c2309b4411c1d56cd2c4d971f
+               1 archivos            152 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\b6
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               800 4b0174390b24a3ff89889abe2381ed6a069ea3
+2024-07-05  07:59               355 5d3ab045346588fcd2bdccfdd2c7c2273799db
+               2 archivos          1.155 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\b7
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                64 5276785a5cc182d825c2537fb93f19cd466f1f
+               1 archivos             64 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\b8
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               229 983f1ce44615a4e459f1844c99e053a940bba0
+               1 archivos            229 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\be
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               284 411602b197d7db470a68d2611872fd3bf728a0
+               1 archivos            284 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\c1
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               502 f73d1796600c5c062e720fad30ad3d4c7d78c3
+               1 archivos            502 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\c2
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               160 ac92c87b48a8862d17a92823a18c5f7c8d774e
+               1 archivos            160 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\c3
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               153 cd6b72d9f02b5afdd921bf340b7c8a6adf1b60
+               1 archivos            153 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\c6
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59                63 6268fa934b2878875a32e8162867810633df35
+               1 archivos             63 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\c7
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               143 689f245f5e4bd9bc5712fe1ea20929bd4c6dd1
+               1 archivos            143 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\cd
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56                91 eb1df240aa3b0483fcdc1d698cd50365ba2e22
+               1 archivos             91 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\ce
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                69 9ae1b6f244e56e82d4c5a0048df451ae4e1b3e
+               1 archivos             69 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\d2
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               126 1b00a47e8c57a78da4f26a9c59da01a24ab183
+               1 archivos            126 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\d5
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               309 3e613b57dbac2b1dae4d15eed695e3416de5da
+               1 archivos            309 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\d7
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               947 ef5f642f60bdb3d220b47c12da1eadbac0ad63
+               1 archivos            947 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\d9
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               173 6f7a8e9426cb155f24a56c5b9c7c64e53535e6
+               1 archivos            173 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\da
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56             1.792 c2526e5f20aca71bd7decf56f914d0689f552e
+               1 archivos          1.792 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\dd
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               161 7fdbd6d23e10d41967421385238be9176c9505
+               1 archivos            161 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\e0
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               167 0c75672ac39740e78dd064f9c3eac576cce40a
+               1 archivos            167 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\e1
+
+2024-07-04  14:50    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:50               359 b1c234380a619d391f5cfa41f652cef85438db
+               1 archivos            359 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\e2
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               157 a94bd909a4a32b2b48f813fafdbb0ba5baa074
+               1 archivos            157 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\e5
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               649 0c5c8221bf41e1f855dad81d1f9ae0f68ae1c5
+               1 archivos            649 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\e8
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               420 bf1291352e9bedc8c0877559b7d0c5bf1bc6d9
+               1 archivos            420 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\ea
+
+2024-07-04  12:00    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  12:00               564 3f18e4a3fdc40ad0b1759e13268fd9f0e1f591
+2024-07-04  11:56                72 7a662c57a7fa28e5db64d8f4bf0d862ea213f6
+               2 archivos            636 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\eb
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               337 cc577bec96203e6e0c5c072b0be94403450f5e
+2024-07-04  11:56                62 e94438cb226c790ad59625f79f21b0cf138e06
+               2 archivos            399 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\ed
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12                65 14e2aa675744ee238401e73c95df199bd82e1a
+               1 archivos             65 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\ef
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               129 c87eb6db707854cf15623ec68ab55311f651a1
+               1 archivos            129 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\f1
+
+2024-07-04  14:12    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  14:12               565 052d9cc45267f92c30b05caeee3201c0d8e6f8
+2024-07-04  11:56             1.436 d10cae68b4222801ef1f840526d15932da9b14
+               2 archivos          2.001 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\f2
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-04  11:56               565 77b5df0e95fffffda6402b1be05c687e47c71e
+               1 archivos            565 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\f9
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59               194 91d3e12346ce7db532f413b73ea4a9c55a6771
+               1 archivos            194 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\fd
+
+2024-07-05  07:59    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+2024-07-05  07:59                64 725aa4e55ce625d8ba95bb75dd6f03f15672cc
+               1 archivos             64 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\info
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\objects\pack
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\refs
+
+2024-07-04  11:56    <DIR>          .
+2024-07-05  07:59    <DIR>          heads
+2024-07-04  11:56    <DIR>          remotes
+2024-07-04  11:56    <DIR>          tags
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\refs\heads
+
+2024-07-05  07:59    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-05  07:59                41 master
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\refs\remotes
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-05  07:59    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\refs\remotes\origin
+
+2024-07-05  07:59    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+2024-07-05  07:59                41 master
+               1 archivos             41 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.git\refs\tags
+
+2024-07-04  11:56    <DIR>          .
+2024-07-04  11:56    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.github
+
+2024-07-04  14:00    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  14:00    <DIR>          workflows
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.github\workflows
+
+2024-07-04  14:00    <DIR>          .
+2024-07-04  14:00    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs
+
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  14:38    <DIR>          ProjectEvaluation
+2024-07-04  14:00    <DIR>          sd
+2024-07-04  16:06    <DIR>          winfenixApi
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\ProjectEvaluation
+
+2024-07-04  14:38    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\sd
+
+2024-07-04  14:00    <DIR>          .
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\winfenixApi
+
+2024-07-04  16:06    <DIR>          .
+2024-07-04  16:06    <DIR>          config
+2024-07-04  12:02    <DIR>          DesignTimeBuild
+2024-07-04  20:50    <DIR>          FileContentIndex
+2024-07-04  20:50    <DIR>          v17
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\winfenixApi\config
+
+2024-07-04  16:06    <DIR>          .
+2024-07-04  16:06    <DIR>          ..
+2023-12-08  19:08            85.548 applicationhost.config
+               1 archivos         85.548 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\winfenixApi\DesignTimeBuild
+
+2024-07-04  12:02    <DIR>          .
+2024-07-04  16:06    <DIR>          ..
+2024-07-04  20:50           166.060 .dtbcache.v2
+               1 archivos        166.060 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\winfenixApi\FileContentIndex
+
+2024-07-04  20:50    <DIR>          .
+2024-07-04  16:06    <DIR>          ..
+2024-07-04  20:40            55.747 08ce7104-0c40-47c2-bc71-8596ee61b7ac.vsidx
+2024-07-04  19:40            15.244 0cb1fe86-b26c-45c7-98f4-02405e6ad631.vsidx
+2024-07-04  20:50            16.924 2ceec1da-35a6-4a4f-9bc1-9570ff3a42dc.vsidx
+2024-07-04  20:42            16.043 5b00686a-5b41-4377-ab95-87bc6f8f9c95.vsidx
+2024-07-04  20:47            15.248 83da7313-68aa-4838-95f2-7c31722e2ce7.vsidx
+               5 archivos        119.206 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\.vs\winfenixApi\v17
+
+2024-07-04  20:50    <DIR>          .
+2024-07-04  16:06    <DIR>          ..
+2024-07-04  14:29               132 .futdcache.v2
+2024-07-04  20:50            11.531 DocumentLayout.json
+               2 archivos         11.663 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Adapters
+
+2024-07-04  15:39    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  15:39               163 ExternalServiceAdapter.cs
+               1 archivos            163 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Application
+
+2024-07-03  13:15    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  20:29    <DIR>          Interfaces
+2024-07-03  17:04    <DIR>          Serialization
+2024-07-04  20:29    <DIR>          Services
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Application\Interfaces
+
+2024-07-04  20:29    <DIR>          .
+2024-07-03  13:15    <DIR>          ..
+2024-07-03  16:07               469 IDynamicService.cs
+2024-07-04  20:29               302 ILoginRepository.cs
+2024-07-04  20:29               306 ILoginService.cs
+               3 archivos          1.077 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Application\Serialization
+
+2024-07-03  17:04    <DIR>          .
+2024-07-03  13:15    <DIR>          ..
+2024-07-03  17:04               193 AppJsonSerializerContext.cs
+               1 archivos            193 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Application\Services
+
+2024-07-04  20:29    <DIR>          .
+2024-07-03  13:15    <DIR>          ..
+2024-07-04  13:42             4.247 AuthService.cs
+2024-07-04  13:42             2.979 DynamicService.cs
+2024-07-04  20:29               814 LoginService.cs
+               3 archivos          8.040 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin
+
+2024-07-03  12:58    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-03  12:58    <DIR>          Debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug
+
+2024-07-03  12:58    <DIR>          .
+2024-07-03  12:58    <DIR>          ..
+2024-07-04  20:50    <DIR>          net8.0
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0
+
+2024-07-04  20:50    <DIR>          .
+2024-07-03  12:58    <DIR>          ..
+2024-07-03  12:58               127 appsettings.Development.json
+2024-07-04  13:24               226 appsettings.json
+2023-09-07  12:50           377.776 Azure.Core.dll
+2023-10-18  14:59           334.880 Azure.Identity.dll
+2024-03-06  10:03           243.712 Dapper.dll
+2024-05-19  23:26            51.976 Microsoft.AspNetCore.Authentication.JwtBearer.dll
+2020-04-14  17:39            14.720 Microsoft.Bcl.AsyncInterfaces.dll
+2024-01-26  21:49           275.984 Microsoft.Data.SqlClient.dll
+2024-05-19  18:54            34.848 Microsoft.EntityFrameworkCore.Abstractions.dll
+2024-05-19  18:55         2.533.312 Microsoft.EntityFrameworkCore.dll
+2024-05-19  18:55         1.991.616 Microsoft.EntityFrameworkCore.Relational.dll
+2024-05-19  18:55           548.800 Microsoft.EntityFrameworkCore.SqlServer.dll
+2023-09-05  13:25         1.035.256 Microsoft.Identity.Client.dll
+2023-09-05  13:31            66.552 Microsoft.Identity.Client.Extensions.Msal.dll
+2024-06-19  12:04            19.488 Microsoft.IdentityModel.Abstractions.dll
+2024-06-19  12:04           137.136 Microsoft.IdentityModel.JsonWebTokens.dll
+2024-06-19  12:03            36.784 Microsoft.IdentityModel.Logging.dll
+2023-11-20  20:17            40.376 Microsoft.IdentityModel.Protocols.dll
+2023-11-20  20:30           120.240 Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+2024-06-19  12:04           296.480 Microsoft.IdentityModel.Tokens.dll
+2020-08-29  15:14           173.960 Microsoft.OpenApi.dll
+2022-01-27  12:19            23.976 Microsoft.SqlServer.Server.dll
+2022-02-17  00:37            75.128 Microsoft.SqlServer.Types.dll
+2021-10-22  18:40            26.224 Microsoft.Win32.SystemEvents.dll
+2024-07-04  14:50    <DIR>          runtimes
+2018-12-04  02:36            14.848 SmhiWeather.dll
+2024-07-04  18:39                80 SqlConnect.json
+2022-07-19  10:21            15.360 Swashbuckle.AspNetCore.Swagger.dll
+2022-07-19  10:21            96.768 Swashbuckle.AspNetCore.SwaggerGen.dll
+2022-07-19  10:21         3.416.576 Swashbuckle.AspNetCore.SwaggerUI.dll
+2022-08-19  14:58           396.424 System.Configuration.ConfigurationManager.dll
+2023-10-26  18:27           268.320 System.Data.SqlClient.dll
+2021-10-22  18:49           175.216 System.Drawing.Common.dll
+2024-06-19  12:02            89.008 System.IdentityModel.Tokens.Jwt.dll
+2021-04-08  11:45            21.368 System.Memory.Data.dll
+2021-10-22  18:52            89.200 System.Runtime.Caching.dll
+2021-10-22  18:51            20.592 System.Security.Cryptography.ProtectedData.dll
+2021-10-22  18:49           104.048 System.Security.Permissions.dll
+2021-10-22  18:49            25.712 System.Windows.Extensions.dll
+2024-07-04  20:50            47.882 winfenixApi.deps.json
+2024-07-04  20:50            66.560 winfenixApi.dll
+2024-07-04  20:50           142.848 winfenixApi.exe
+2024-07-04  20:50            44.908 winfenixApi.pdb
+2024-07-04  16:35               485 winfenixApi.runtimeconfig.json
+              43 archivos     13.495.780 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes
+
+2024-07-04  14:50    <DIR>          .
+2024-07-04  20:50    <DIR>          ..
+2024-07-03  18:29    <DIR>          unix
+2024-07-03  18:29    <DIR>          win
+2024-07-04  14:50    <DIR>          win-arm
+2024-07-03  18:29    <DIR>          win-arm64
+2024-07-03  18:29    <DIR>          win-x64
+2024-07-03  18:29    <DIR>          win-x86
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\unix
+
+2024-07-03  18:29    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-07-04  14:50    <DIR>          lib
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\unix\lib
+
+2024-07-04  14:50    <DIR>          .
+2024-07-03  18:29    <DIR>          ..
+2024-07-04  16:35    <DIR>          net6.0
+2024-07-04  16:35    <DIR>          netcoreapp2.1
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-01-26  21:49         1.554.552 Microsoft.Data.SqlClient.dll
+2021-10-22  18:51           427.112 System.Drawing.Common.dll
+               2 archivos      1.981.664 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2023-10-26  18:34           957.472 System.Data.SqlClient.dll
+               1 archivos        957.472 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win
+
+2024-07-03  18:29    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-07-04  14:50    <DIR>          lib
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win\lib
+
+2024-07-04  14:50    <DIR>          .
+2024-07-03  18:29    <DIR>          ..
+2024-07-04  16:35    <DIR>          net6.0
+2024-07-04  16:35    <DIR>          netcoreapp2.1
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win\lib\net6.0
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-01-26  21:49         1.638.520 Microsoft.Data.SqlClient.dll
+2021-10-22  18:40            53.352 Microsoft.Win32.SystemEvents.dll
+2021-10-22  18:48           454.248 System.Drawing.Common.dll
+2021-10-22  18:52            91.240 System.Runtime.Caching.dll
+2021-10-22  18:51            33.904 System.Security.Cryptography.ProtectedData.dll
+2021-10-22  18:49            43.112 System.Windows.Extensions.dll
+               6 archivos      2.314.376 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2023-10-26  18:34         1.026.096 System.Data.SqlClient.dll
+               1 archivos      1.026.096 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-arm
+
+2024-07-04  14:50    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-07-04  16:35    <DIR>          native
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-arm\native
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2023-08-11  13:56           381.984 Microsoft.Data.SqlClient.SNI.dll
+               1 archivos        381.984 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-arm64
+
+2024-07-03  18:29    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-07-04  16:35    <DIR>          native
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-arm64\native
+
+2024-07-04  16:35    <DIR>          .
+2024-07-03  18:29    <DIR>          ..
+2023-08-11  13:56           491.552 Microsoft.Data.SqlClient.SNI.dll
+               1 archivos        491.552 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-x64
+
+2024-07-03  18:29    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-07-04  16:35    <DIR>          native
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-x64\native
+
+2024-07-04  16:35    <DIR>          .
+2024-07-03  18:29    <DIR>          ..
+2023-08-11  13:56           504.872 Microsoft.Data.SqlClient.SNI.dll
+               1 archivos        504.872 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-x86
+
+2024-07-03  18:29    <DIR>          .
+2024-07-04  14:50    <DIR>          ..
+2024-07-04  16:35    <DIR>          native
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\bin\Debug\net8.0\runtimes\win-x86\native
+
+2024-07-04  16:35    <DIR>          .
+2024-07-03  18:29    <DIR>          ..
+2023-08-11  13:56           414.248 Microsoft.Data.SqlClient.SNI.dll
+               1 archivos        414.248 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Core
+
+2024-07-04  20:28    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  20:00    <DIR>          Entities
+2024-07-04  20:40    <DIR>          Interfaces
+2024-07-04  20:40    <DIR>          Shared
+2024-07-04  17:46    <DIR>          Validators
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Core\Entities
+
+2024-07-04  20:00    <DIR>          .
+2024-07-04  20:28    <DIR>          ..
+2024-07-03  18:32               254 DynamicRequest.cs
+2024-07-04  20:00               176 InputLoginDTO.cs
+2024-07-03  17:06               278 User.cs
+               3 archivos            708 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Core\Interfaces
+
+2024-07-04  20:40    <DIR>          .
+2024-07-04  20:28    <DIR>          ..
+2024-07-04  13:42               421 IAuthService.cs
+2024-07-04  20:40               165 IConnection.cs
+2024-07-04  20:40               136 IConsultas.cs
+2024-07-03  16:06               465 IDynamicRepository.cs
+2024-07-04  20:40               185 IGeneraToken.cs
+2024-07-04  13:42               226 IUserRepository.cs
+               6 archivos          1.598 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Core\Shared
+
+2024-07-04  20:40    <DIR>          .
+2024-07-04  20:28    <DIR>          ..
+2024-07-04  20:40               226 GenericResponse.cs
+               1 archivos            226 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Core\Validators
+
+2024-07-04  17:46    <DIR>          .
+2024-07-04  20:28    <DIR>          ..
+2024-07-03  16:44               301 IValidator.cs
+2024-07-03  16:44               959 ProductValidator.cs
+               2 archivos          1.260 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Infrastructure
+
+2024-07-04  15:53    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  20:50    <DIR>          Configurations
+2024-07-04  20:29    <DIR>          Data
+2024-07-04  20:42    <DIR>          Repositories
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Infrastructure\Configurations
+
+2024-07-04  20:50    <DIR>          .
+2024-07-04  15:53    <DIR>          ..
+2024-07-04  20:47               296 AppSettings.cs
+2024-07-04  13:17               252 DatabaseSettings.cs
+2024-07-04  20:50               713 MessagesAPI.cs
+               3 archivos          1.261 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Infrastructure\Data
+
+2024-07-04  20:29    <DIR>          .
+2024-07-04  15:53    <DIR>          ..
+2024-07-04  19:08             1.827 DatabaseContext.cs
+               1 archivos          1.827 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Infrastructure\Repositories
+
+2024-07-04  20:42    <DIR>          .
+2024-07-04  15:53    <DIR>          ..
+2024-07-04  15:42             6.714 DynamicRepository.cs
+2024-07-04  20:42             2.870 LoginRepository.cs
+2024-07-04  13:42             1.296 UserRepository.cs
+               3 archivos         10.880 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\obj
+
+2024-07-04  13:42    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-03  12:58    <DIR>          Debug
+2024-07-04  12:47           151.707 project.assets.json
+2024-07-04  13:42            10.259 project.nuget.cache
+2024-07-04  13:42             4.017 winfenixApi.csproj.nuget.dgspec.json
+2024-07-04  12:40             2.555 winfenixApi.csproj.nuget.g.props
+2024-07-04  12:40             1.155 winfenixApi.csproj.nuget.g.targets
+               5 archivos        169.693 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\obj\Debug
+
+2024-07-03  12:58    <DIR>          .
+2024-07-04  13:42    <DIR>          ..
+2024-07-04  16:35    <DIR>          net8.0
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\obj\Debug\net8.0
+
+2024-07-04  16:35    <DIR>          .
+2024-07-03  12:58    <DIR>          ..
+2024-07-04  09:19               198 .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+2024-07-04  20:50           142.848 apphost.exe
+2024-07-04  16:35    <DIR>          ref
+2024-07-04  16:35    <DIR>          refint
+2024-07-04  16:35    <DIR>          staticwebassets
+2024-07-04  16:35               283 staticwebassets.build.json
+2024-07-04  16:35                 0 winfenix.79C28471.Up2Date
+2024-07-04  16:35             1.009 winfenixApi.AssemblyInfo.cs
+2024-07-04  16:35                66 winfenixApi.AssemblyInfoInputs.cache
+2024-07-04  16:35            47.249 winfenixApi.assets.cache
+2024-07-04  16:35            14.587 winfenixApi.csproj.AssemblyReference.cache
+2024-07-04  19:40                 0 winfenixApi.csproj.BuildWithSkipAnalyzers
+2024-07-04  20:49                66 winfenixApi.csproj.CoreCompileInputs.cache
+2024-07-04  19:08             8.650 winfenixApi.csproj.FileListAbsolute.txt
+2024-07-04  20:50            66.560 winfenixApi.dll
+2024-07-04  16:35               937 winfenixApi.GeneratedMSBuildEditorConfig.editorconfig
+2024-07-04  16:35                66 winfenixApi.genruntimeconfig.cache
+2024-07-03  12:58               770 winfenixApi.GlobalUsings.g.cs
+2024-07-04  20:40                 0 winfenixApi.MvcApplicationPartsAssemblyInfo.cache
+2024-07-04  20:40               671 winfenixApi.MvcApplicationPartsAssemblyInfo.cs
+2024-07-04  20:50            44.908 winfenixApi.pdb
+2024-07-04  16:35               177 winfenixApi.sourcelink.json
+              19 archivos        329.045 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\obj\Debug\net8.0\ref
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  16:35    <DIR>          ..
+2024-07-04  20:50            22.528 winfenixApi.dll
+               1 archivos         22.528 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\obj\Debug\net8.0\refint
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  16:35    <DIR>          ..
+2024-07-04  20:50            22.528 winfenixApi.dll
+               1 archivos         22.528 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\obj\Debug\net8.0\staticwebassets
+
+2024-07-04  16:35    <DIR>          .
+2024-07-04  16:35    <DIR>          ..
+2024-07-04  16:35                91 msbuild.build.winfenixApi.props
+2024-07-04  16:35                75 msbuild.buildMultiTargeting.winfenixApi.props
+2024-07-04  16:35                89 msbuild.buildTransitive.winfenixApi.props
+               3 archivos            255 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\Properties
+
+2024-07-04  17:55    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  17:55               811 launchSettings.json
+               1 archivos            811 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\WebApi
+
+2024-07-04  19:40    <DIR>          .
+2024-07-05  10:08    <DIR>          ..
+2024-07-04  20:00    <DIR>          Controllers
+2024-07-04  19:40             4.336 Program.cs
+2024-07-04  15:42             3.304 Startup.cs
+               2 archivos          7.640 bytes
+
+ Directorio de C:\Users\Yelser Carrion\source\repos\winfenixApi\WebApi\Controllers
+
+2024-07-04  20:00    <DIR>          .
+2024-07-04  19:40    <DIR>          ..
+2024-07-04  19:25             4.218 DynamicController.cs
+2024-07-04  20:00               953 LoginController.cs
+               2 archivos          5.171 bytes
+
+     Total de archivos en la lista:
+             292 archivos     22.628.739 bytes
+             497 dirs  426.818.170.880 bytes libres

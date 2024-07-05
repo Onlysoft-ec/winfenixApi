@@ -20,9 +20,9 @@ namespace winfenixApi.Application.Services
             return _loginRepository.Autenticador(login);
         }
 
-        public GenericResponse<string> GeneraToken(InputLoginDTO login)
+        public GenericResponse<string> GenerateToken(InputLoginDTO login, string database)
         {
-            return _loginRepository.GeneraToken(login);
+            return _loginRepository.GeneraToken(login, database);
         }
     }
 }

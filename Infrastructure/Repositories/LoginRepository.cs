@@ -48,7 +48,7 @@ namespace winfenixApi.Infrastructure.Repositories
             return response;
         }
 
-        public GenericResponse<string> GeneraToken(InputLoginDTO login)
+        public GenericResponse<string> GeneraToken(InputLoginDTO login, string database)
         {
             var response = new GenericResponse<string>();
             try

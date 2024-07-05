@@ -7,8 +7,8 @@ using Newtonsoft.Json.Linq;
 
 namespace winfenixApi.WebApi.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     [Authorize]
     public class DynamicController : ControllerBase
     {
