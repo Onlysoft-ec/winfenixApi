@@ -7,7 +7,6 @@ using winfenixApi.Core.Validators;
 using winfenixApi.Infrastructure.Configurations;
 using winfenixApi.Infrastructure.Data;
 using winfenixApi.Infrastructure.Repositories;
-using winfenixApi.Repositories;
 
 
 public class Startup

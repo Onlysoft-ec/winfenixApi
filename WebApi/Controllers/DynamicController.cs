@@ -2,8 +2,10 @@
 using Microsoft.AspNetCore.Mvc;
 using winfenixApi.Application.Interfaces;
 using winfenixApi.Core.Entities;
+using winfenixApi.Infrastructure.Data;
+using Newtonsoft.Json.Linq;
 
-namespace winfenixApi.Controllers
+namespace winfenixApi.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -12,12 +14,29 @@ namespace winfenixApi.Controllers
     {
         private readonly IDynamicService _dynamicService;
         private readonly ILogger<DynamicController> _logger;
+        private readonly DatabaseContext _databaseContext;
 
-        public DynamicController(IDynamicService dynamicService, ILogger<DynamicController> logger)
+        public DynamicController(IDynamicService dynamicService, DatabaseContext databaseContext, ILogger<DynamicController> logger)
         {
             _dynamicService = dynamicService;
             _logger = logger;
+            _databaseContext = databaseContext;
         }
+
+        [HttpPost("set-db")]
+        [AllowAnonymous]
+        public IActionResult SetDatabase([FromBody] JObject config)
+        {
+            string? server = config["Server"]?.ToString();
+            string? user = config["UserDb"]?.ToString();
+            string? password = config["PassDb"]?.ToString();
+
+            _databaseContext.SetConnectionString(server, user, password);
+            
+
+            return Ok();
+        }
+
 
         [HttpGet("{tableName}")]
         [ResponseCache(Duration = 60)]  // Caching

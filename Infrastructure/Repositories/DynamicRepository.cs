@@ -6,7 +6,7 @@ using winfenixApi.Infrastructure.Data;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 
-namespace winfenixApi.Repositories
+namespace winfenixApi.Infrastructure.Repositories
 {
     public class DynamicRepository : IDynamicRepository
     {
